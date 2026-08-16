@@ -49,3 +49,7 @@ Step 2 -
 
 - Service - login() -> POST API -> statusCode -> response.body -> print()
 -----------------------------------------------------------------------------
+product api -
+api url - https://dummyjson.com/products
+method: 'GET',
+body:
